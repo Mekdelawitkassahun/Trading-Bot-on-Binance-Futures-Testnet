@@ -1,0 +1,1 @@
+2026-05-20 15:25:07,443 - bot.logging_config - ERROR - Application error: API key and secret must be provided either as parameters or environment variables
